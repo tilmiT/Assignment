@@ -1,0 +1,5 @@
+The History of the Internet
+The internet began as a project called ARPANET in the late 1960s, funded by the United States Department of Defense. Initially connecting just four university computers, it laid the groundwork for the global network we use today.
+In the 1970s, protocols like TCP/IP were developed, standardizing how computers could communicate with each other. The 1980s saw the creation of DNS (Domain Name System), which allowed the use of domain names instead of numerical IP addresses.
+The World Wide Web, created by Tim Berners-Lee in 1989, revolutionized the internet by introducing HTML, URLs, and web browsers. The 1990s witnessed the commercialization of the internet and the first search engines. Social media platforms emerged in the early 2000s, drastically changing how people interact online.
+Today, the internet connects billions of devices worldwide and has become an essential part of daily life, business, and global infrastructure.
